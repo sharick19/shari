@@ -1,0 +1,4 @@
+luis ,pepito,ggg,101010
+Jabon,Verde,Nacional,4.5
+Mesa,cafe,de escritorio,900
+
